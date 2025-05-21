@@ -21,12 +21,7 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
+*.sw?npm create amplify@latest -y
 
 # App specific files
 .env
-
-# amplify
-.amplify
-amplify_outputs*
-amplifyconfiguration*
